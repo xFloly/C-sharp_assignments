@@ -1,0 +1,24 @@
+#N%1#Witaj, pomozesz dla mnie?
+	#H#NIE
+	#N%1#a jak zaplace?
+		#H#nadal nie
+		<END>
+		#H#no dobra
+		#N%1#za 5 ziko musisz pozbierac mi 20 jab³ek
+			#H#wincyj
+			#N%1#nie ma szans, cwaniaku
+				#H#no to naura
+				<END>
+				#H#niech ci bedzie
+				<END>
+			<END>
+			#H#niech ci bedzie
+			<END>
+		<END>
+	<END>
+	#H#spoko
+	#N%1#musisz pozbierac mi 20 jab³ek, dam ci 10 jak wrócisz przed 14
+	#H#cool
+	<END>
+	
+
